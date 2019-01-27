@@ -1,0 +1,12 @@
+# Ignore everything
+*
+# Whitelist non-hidden subdirectories
+!*/
+.*
+
+# Whitelist the following extensions
+!*.ipynb
+!*.py
+!*.csv
+!*.md
+!/.gitignore
